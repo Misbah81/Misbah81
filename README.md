@@ -103,7 +103,7 @@ IoT project for remotely controlling an LED using Raspberry Pi, Python, GPIO, an
 
 <br>
 
-### 💼 Open to Work • Internships • Software & AI Opportunities
+### 💼 Open to Work 
 
 <br>
 
