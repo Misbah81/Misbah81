@@ -1,172 +1,230 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&section=header&text=Misbah%20Muhammad%20Rafique&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Computer%20Engineering%20%7C%20Software%20%7C%20AI%20%7C%20Embedded%20Systems&descAlignY=60&descSize=16&animation=fadeIn&color=0:050505,50:111111,100:166534" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6&text=Misbah%20Muhammad%20Rafique&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Computer%20Engineering%20%7C%20Software%20%7C%20AI%20%7C%20Embedded%20Systems&descAlignY=58&descSize=17" width="100%"/>
 
 <br>
 
-<a href="https://github.com/Misbah81">
-<img src="https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white" height="30" alt="GitHub"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/misbah-rafique-b6935933a">
-<img src="https://img.shields.io/badge/-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="30" alt="LinkedIn"/>
-</a>
-&nbsp;
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/-EA4335?style=flat-square&logo=gmail&logoColor=white" height="30" alt="Email"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=760&lines=Building+Practical+Engineering+Projects;Exploring+Artificial+Intelligence+%26+Machine+Learning;Developing+Intelligent+Embedded+Systems;Learning+Through+Building+%E2%80%A2+Experimenting+%E2%80%A2+Improving" alt="Typing SVG"/>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=1000&color=22C55E&center=true&vCenter=true&width=750&lines=Computer+Engineering+Student;Software+%7C+Artificial+Intelligence+%7C+Embedded+Systems;Building+Practical+%26+Intelligent+Systems;Learning+Through+Real+Projects" alt="Typing Animation"/>
+<a href="https://github.com/Misbah81">
+<img src="https://img.shields.io/badge/GitHub-Misbah81-111827?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/misbah-rafique-b6935933a">
+<img src="https://img.shields.io/badge/LinkedIn-Misbah%20Muhammad%20Rafique-111827?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+</div>
+
+<br>
+
+---
+
+## `01` — Profile
+
+I'm **Misbah Muhammad Rafique**, a Computer Engineering student interested in building practical systems across **software development, artificial intelligence, and embedded technologies**.
+
+My approach is simple: **learn the technology, build something with it, understand how it works, and keep improving it.**
+
+Currently exploring **AI/ML, Generative AI, intelligent systems, IoT, and software development** through hands-on projects.
+
+---
+
+## `02` — Core Stack
+
+> Technologies I work with and actively explore.
+
+### AI / ML
+
+`Python` `scikit-learn` `NumPy` `Pandas` `Matplotlib` `Machine Learning`
+
+### LLM Systems
+
+`LangChain` `LangGraph` `Ollama` `RAG` `Local LLMs`
+
+### Backend
+
+`Python` `Flask` `REST APIs`
+
+### Data & Cloud
+
+`MySQL` `Firebase` `Firestore` `Arduino IoT Cloud`
+
+### Embedded / IoT
+
+`ESP32` `ESP8266` `Arduino` `Raspberry Pi` `MQTT` `Sensors` `Blynk`
+
+### Frontend / Applications
+
+`Flutter` `Dart` `HTML` `CSS` `JavaScript`
+
+### Programming
+
+`Python` `C++` `Java` `Dart`
+
+### Tools
+
+`Git` `GitHub` `VS Code` `Arduino IDE` `Jupyter Notebook`
+
+---
+
+## `03` — Technology Highlights
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,java,dart" height="48" alt="Programming"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=flask,flutter,html,css" height="48" alt="Development"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,mysql,firebase" height="48" alt="IoT and Database"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" height="48" alt="Tools"/>
 
 </div>
 
 ---
 
-## 👩‍💻 About
-
-I am **Misbah Muhammad Rafique**, a Computer Engineering student interested in building practical solutions across **software development, artificial intelligence, and embedded systems**.
-
-I enjoy working on projects that combine programming, hardware, data, and intelligent technologies to solve real-world engineering problems.
-
-Currently exploring **Artificial Intelligence, Machine Learning, Generative AI, LLM systems, software development, and embedded technologies**.
-
----
-
-## 🛠️ Core Stack
-
-**AI / ML**
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white"/>
-
-**LLM Systems**
-
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white"/> <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/> <img src="https://img.shields.io/badge/RAG-334155?style=flat-square&logoColor=white"/>
-
-**Backend**
-
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/REST%20API-2563EB?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=111827"/> <img src="https://img.shields.io/badge/Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=111827"/>
-
-**Embedded / IoT**
-
-<img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white"/> <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/> <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white"/> <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/Blynk-23C48E?style=flat-square&logoColor=white"/>
-
-**Frontend / Mobile**
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
-
-**Programming**
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
-
-**Tools**
-
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/> <img src="https://img.shields.io/badge/Arduino%20IDE-00979D?style=flat-square&logo=arduino&logoColor=white"/>
-
----
-
-## 🚀 Selected Projects
-
-**01 · IoT-Based Intelligent Rodent Monitoring System**
-
-ESP32-based monitoring and automated control system designed for critical infrastructure environments.
-
-`ESP32` `MQTT` `HC-SR04` `MQ-135` `Firebase` `Flask`
-
-→ [Repository](https://github.com/Misbah81/IOT_based_Rodent-detection-system)
-
----
-
-**02 · Footstep Power Generation**
-
-Arduino-based piezoelectric system demonstrating electrical energy generation from human footsteps.
-
-`Arduino Uno` `Piezoelectric Sensors` `Voltage Sensor` `I2C LCD`
-
-→ [Repository](https://github.com/Misbah81/Footstep-Power-Generation)
-
----
-
-**03 · Raspberry Pi LED Control**
-
-Remote LED control system using Raspberry Pi, Python, GPIO, and Blynk.
-
-`Raspberry Pi` `Python` `Blynk` `GPIO`
-
-→ [Repository](https://github.com/Misbah81/Control-LED-with-Raspberry-Pi-using-Blynk-App)
-
----
-
-**04 · Python Voice Assistant**
-
-Voice-controlled Python application exploring speech recognition, voice commands, and automation.
-
-`Python` `Speech Recognition` `Text-to-Speech`
-
-→ [GitHub](https://github.com/Misbah81)
-
----
-
-## 🧭 Current Direction
+## `04` — What I'm Exploring
 
 ```text
+Artificial Intelligence
+        │
+        ├── Machine Learning
+        ├── Generative AI
+        ├── Local LLMs
+        └── RAG & LLM Applications
+
+Embedded Systems
+        │
+        ├── ESP32 / Arduino
+        ├── Raspberry Pi
+        ├── Sensors & Actuators
+        └── MQTT / IoT
+
 Software Development
         │
-        ├── Python & Application Development
-        │
-        ├── Artificial Intelligence & Machine Learning
-        │
-        ├── Generative AI & LLM Systems
-        │
-        └── Embedded Systems & IoT
-                         │
-                         ▼
-                 Intelligent Systems
+        ├── Python
+        ├── Flask / REST APIs
+        ├── Flutter
+        └── Database Integration
 ```
 
 ---
 
-## 📊 GitHub Analytics
+## `05` — Selected Work
+
+### Intelligent IoT Systems
+
+Building IoT solutions that combine **sensing, communication, automation, and data processing**.
+
+* ESP32-based sensor systems
+* MQTT communication
+* Automated responses using sensor conditions
+* Firebase / Firestore integration
+* Flask-based web interfaces
+
+### AI & Machine Learning
+
+Exploring how machine learning can turn raw data into useful predictions and intelligent decisions.
+
+* Data preprocessing
+* Feature analysis
+* Classification and anomaly detection
+* Model experimentation
+* AI-assisted applications
+
+### Software & Applications
+
+Developing practical applications using Python and Flutter, with a focus on connecting software with real-world systems.
+
+* REST APIs
+* Database-backed applications
+* Voice-based applications
+* Mobile interfaces
+* Hardware-software integration
+
+---
+
+## `06` — Engineering Mindset
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Misbah81&show_icons=true&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=22C55E&text_color=C9D1D9&icon_color=22C55E" height="170" alt="GitHub Statistics"/>
+**LEARN**
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Misbah81&layout=compact&hide_border=true&bg_color=0D1117&title_color=22C55E&text_color=C9D1D9" height="170" alt="Top Languages"/>
+Understand the technology and its fundamentals.
+
+↓
+
+**BUILD**
+
+Turn concepts into working projects.
+
+↓
+
+**TEST**
+
+Experiment, debug, and evaluate.
+
+↓
+
+**IMPROVE**
+
+Refine the system and learn from the results.
+
+</div>
+
+---
+
+## `07` — GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Misbah81&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" height="175" alt="GitHub Stats"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Misbah81&layout=compact&hide_border=true&theme=transparent" height="175" alt="Top Languages"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=Misbah81&theme=dark&hide_border=true&ring=22C55E&fire=22C55E&currStreakLabel=22C55E&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Misbah81&hide_border=true&theme=transparent" height="175" alt="GitHub Streak"/>
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+## `08` — Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Misbah81&bg_color=0D1117&color=C9D1D9&line=22C55E&point=FFFFFF&area=true&hide_border=true" width="96%" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Misbah81&bg_color=ffffff00&color=8B5CF6&line=8B5CF6&point=6D28D9&area=true&hide_border=true" width="96%" alt="Contribution Graph"/>
 
 </div>
 
 ---
 
-## 🔗 Connect
-
 <div align="center">
+
+### Open to Work
+
+**Software Development · AI/ML · Embedded Systems · IoT**
+
+<br>
 
 <a href="https://github.com/Misbah81">
-<img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/Explore%20My%20GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub"/>
 </a>
-&nbsp;
+
+ 
+
 <a href="https://www.linkedin.com/in/misbah-rafique-b6935933a">
-<img src="https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-&nbsp;
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/Let's%20Connect-111827?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect"/>
 </a>
 
 </div>
@@ -175,12 +233,6 @@ Software Development
 
 <div align="center">
 
-<a href="https://github.com/Misbah81">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=60&text=Open%20to%20Work&fontSize=22&fontColor=ffffff&color=166534&animation=fadeIn" alt="Open to Work"/>
-</a>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:166534,100:050505" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient&customColorList=6" width="100%"/>
 
 </div>
