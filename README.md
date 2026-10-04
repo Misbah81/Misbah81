@@ -1,190 +1,150 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=210&section=header&text=Misbah%20Muhammad%20Rafique&fontSize=39&fontColor=ffffff&fontAlignY=38&desc=Computer%20Engineering%20Student%20%7C%20Software%20%7C%20AI%20%7C%20Embedded%20Systems&descAlignY=61&descSize=16&animation=fadeIn&color=0:161616,50:292929,100:D4A72C" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=210&section=header&text=MISBAH%20MUHAMMAD%20RAFIQUE&fontSize=39&fontColor=F8F5EC&fontAlignY=38&desc=COMPUTER%20ENGINEERING%20%7C%20SOFTWARE%20%7C%20AI%20%7C%20EMBEDDED%20SYSTEMS&descAlignY=61&descSize=14&animation=fadeIn&color=0:171717,45:262626,75:8A6A2F,100:C9A227" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=D4A72C&center=true&vCenter=true&width=720&lines=Computer+Engineering+Student;Software+%7C+Artificial+Intelligence+%7C+Embedded+Systems;Building+Practical+%26+Intelligent+Systems;Learning+by+Building+Real+Projects" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=900&color=C9A227&center=true&vCenter=true&width=760&lines=Computer+Engineering+Student;Software+%7C+Artificial+Intelligence+%7C+Embedded+Systems;Building+Practical+%26+Intelligent+Systems;Learning+%E2%80%A2+Building+%E2%80%A2+Improving" alt="Typing Animation"/>
 
 <br><br>
 
 <a href="https://github.com/Misbah81">
-<img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=F8F5EC" height="38" alt="GitHub"/>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/misbah-rafique-b6935933a">
-<img src="https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" height="38" alt="LinkedIn"/>
 </a>
 &nbsp;
-<a href="mailto:misbahrafique@example.com">
-<img src="https://img.shields.io/badge/-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/-EA4335?style=for-the-badge&logo=gmail&logoColor=FFFFFF" height="38" alt="Email"/>
 </a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/COMPUTER%20ENGINEERING-C9A227?style=flat-square&labelColor=171717" alt="Computer Engineering"/>
+<img src="https://img.shields.io/badge/SOFTWARE-FFFFFF?style=flat-square&labelColor=171717" alt="Software"/>
+<img src="https://img.shields.io/badge/AI%20%26%20ML-C9A227?style=flat-square&labelColor=171717" alt="AI and ML"/>
+<img src="https://img.shields.io/badge/EMBEDDED%20%26%20IoT-FFFFFF?style=flat-square&labelColor=171717" alt="Embedded and IoT"/>
 
 </div>
 
 ---
 
-## 👩‍💻 Profile
+## 👋 About
 
-I am **Misbah Muhammad Rafique**, a Computer Engineering student interested in building practical solutions across **software development, artificial intelligence, and embedded systems**.
+I’m **Misbah Muhammad Rafique**, a Computer Engineering student focused on building practical systems across **software development, artificial intelligence, machine learning, and embedded technologies**.
 
-I learn primarily through hands-on projects, combining programming, hardware, data, and intelligent technologies to develop practical engineering solutions.
+I learn primarily through hands-on development — turning ideas into working applications, intelligent systems, and hardware-integrated solutions.
 
-Currently exploring **Artificial Intelligence, Machine Learning, Generative AI, software development, and intelligent embedded systems**.
+My current direction is toward **AI/ML and intelligent software systems**, while continuing to build a strong foundation in software and embedded engineering.
 
 ---
 
 ## 🛠️ Core Stack
 
-<div align="center">
+**AI / ML**
 
-<table>
-<tr>
-<td align="right"><strong>AI / ML</strong></td>
-<td>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/NumPy-4DABCF?style=for-the-badge&logo=numpy&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=FFFFFF"/>
 
-<img src="https://img.shields.io/badge/Python-F7DF1E?style=flat-square&logo=python&logoColor=111111"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7DF1E?style=flat-square&logo=scikit-learn&logoColor=111111"/>
-<img src="https://img.shields.io/badge/NumPy-F7DF1E?style=flat-square&logo=numpy&logoColor=111111"/>
-<img src="https://img.shields.io/badge/Pandas-F7DF1E?style=flat-square&logo=pandas&logoColor=111111"/>
-<img src="https://img.shields.io/badge/Matplotlib-F7DF1E?style=flat-square&logo=matplotlib&logoColor=111111"/>
+**LLM / GenAI**
 
-</td>
-</tr>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/LangGraph-171717?style=for-the-badge&logoColor=C9A227"/> <img src="https://img.shields.io/badge/Ollama-FFFFFF?style=for-the-badge&logo=ollama&logoColor=171717"/> <img src="https://img.shields.io/badge/RAG-C9A227?style=for-the-badge&logoColor=171717"/> <img src="https://img.shields.io/badge/Local%20LLMs-171717?style=for-the-badge&logoColor=FFFFFF"/>
 
-<tr>
-<td align="right"><strong>LLM Systems</strong></td>
-<td>
+**Backend / APIs**
 
-<img src="https://img.shields.io/badge/LangChain-F7DF1E?style=flat-square&logoColor=111111"/>
-<img src="https://img.shields.io/badge/LangGraph-F7DF1E?style=flat-square&logoColor=111111"/>
-<img src="https://img.shields.io/badge/Ollama-F7DF1E?style=flat-square&logoColor=111111"/>
-<img src="https://img.shields.io/badge/RAG-F7DF1E?style=flat-square&logoColor=111111"/>
-<img src="https://img.shields.io/badge/Local%20LLMs-F7DF1E?style=flat-square&logoColor=111111"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/REST%20APIs-171717?style=for-the-badge&logoColor=C9A227"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=171717"/>
 
-</td>
-</tr>
+**Embedded / IoT**
 
-<tr>
-<td align="right"><strong>Backend</strong></td>
-<td>
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/MQTT-171717?style=for-the-badge&logoColor=C9A227"/> <img src="https://img.shields.io/badge/Blynk-23C48E?style=for-the-badge&logoColor=FFFFFF"/>
 
-<img src="https://img.shields.io/badge/Flask-F7DF1E?style=flat-square&logo=flask&logoColor=111111"/>
-<img src="https://img.shields.io/badge/REST%20API-F7DF1E?style=flat-square&logoColor=111111"/>
-<img src="https://img.shields.io/badge/MySQL-F7DF1E?style=flat-square&logo=mysql&logoColor=111111"/>
-<img src="https://img.shields.io/badge/Firebase-F7DF1E?style=flat-square&logo=firebase&logoColor=111111"/>
+**Frontend / Mobile**
 
-</td>
-</tr>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=FFFFFF"/>
 
-<tr>
-<td align="right"><strong>Embedded / IoT</strong></td>
-<td>
+**Programming**
 
-<img src="https://img.shields.io/badge/ESP32-F7DF1E?style=flat-square&logo=espressif&logoColor=111111"/>
-<img src="https://img.shields.io/badge/Arduino-F7DF1E?style=flat-square&logo=arduino&logoColor=111111"/>
-<img src="https://img.shields.io/badge/Raspberry%20Pi-F7DF1E?style=flat-square&logo=raspberrypi&logoColor=111111"/>
-<img src="https://img.shields.io/badge/MQTT-F7DF1E?style=flat-square&logoColor=111111"/>
-<img src="https://img.shields.io/badge/Blynk-F7DF1E?style=flat-square&logoColor=111111"/>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=FFFFFF"/>
 
-</td>
-</tr>
+**Tools / Platforms**
 
-<tr>
-<td align="right"><strong>Frontend / Mobile</strong></td>
-<td>
-
-<img src="https://img.shields.io/badge/HTML5-F7DF1E?style=flat-square&logo=html5&logoColor=111111"/>
-<img src="https://img.shields.io/badge/CSS3-F7DF1E?style=flat-square&logo=css3&logoColor=111111"/>
-<img src="https://img.shields.io/badge/Flutter-F7DF1E?style=flat-square&logo=flutter&logoColor=111111"/>
-<img src="https://img.shields.io/badge/Dart-F7DF1E?style=flat-square&logo=dart&logoColor=111111"/>
-
-</td>
-</tr>
-
-<tr>
-<td align="right"><strong>Programming</strong></td>
-<td>
-
-<img src="https://img.shields.io/badge/C%2B%2B-F7DF1E?style=flat-square&logo=cplusplus&logoColor=111111"/>
-<img src="https://img.shields.io/badge/Java-F7DF1E?style=flat-square&logo=openjdk&logoColor=111111"/>
-
-</td>
-</tr>
-
-<tr>
-<td align="right"><strong>Tools</strong></td>
-<td>
-
-<img src="https://img.shields.io/badge/Git-F7DF1E?style=flat-square&logo=git&logoColor=111111"/>
-<img src="https://img.shields.io/badge/GitHub-F7DF1E?style=flat-square&logo=github&logoColor=111111"/>
-<img src="https://img.shields.io/badge/VS%20Code-F7DF1E?style=flat-square&logo=visual-studio-code&logoColor=111111"/>
-<img src="https://img.shields.io/badge/Arduino%20IDE-F7DF1E?style=flat-square&logo=arduino&logoColor=111111"/>
-
-</td>
-</tr>
-</table>
-
-</div>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Arduino%20IDE-00979D?style=for-the-badge&logo=arduino&logoColor=FFFFFF"/>
 
 ---
 
-## 🚀 Selected Work
+## ⚡ Selected Work
 
 **IoT-Based Intelligent Rodent Monitoring System**
-ESP32-based monitoring and automated control system for critical infrastructure environments.
 
-`ESP32` `MQTT` `HC-SR04` `MQ-135` `Firebase` `Flask`
+ESP32-based monitoring and automated chemical diffusion system for critical infrastructure environments.
 
-→ [Repository](https://github.com/Misbah81/IOT_based_Rodent-detection-system)
+`ESP32` · `MQTT` · `HC-SR04` · `MQ-135` · `Firebase` · `Flask`
 
----
+<a href="https://github.com/Misbah81/IOT_based_Rodent-detection-system">Repository →</a>
+
+<br>
 
 **Footstep Power Generation**
+
 Arduino-based piezoelectric system demonstrating electrical energy generation from human footsteps.
 
-`Arduino Uno` `Piezoelectric Sensors` `Voltage Sensor` `I2C LCD`
+`Arduino Uno` · `Piezoelectric Sensors` · `Voltage Sensor` · `I2C LCD`
 
-→ [Repository](https://github.com/Misbah81/Footstep-Power-Generation)
+<a href="https://github.com/Misbah81/Footstep-Power-Generation">Repository →</a>
 
----
+<br>
 
 **Raspberry Pi LED Control**
+
 Remote LED control system using Raspberry Pi, Python, GPIO, and Blynk.
 
-`Raspberry Pi` `Python` `Blynk` `GPIO`
+`Raspberry Pi` · `Python` · `Blynk` · `GPIO`
 
-→ [Repository](https://github.com/Misbah81/Control-LED-with-Raspberry-Pi-using-Blynk-App)
+<a href="https://github.com/Misbah81/Control-LED-with-Raspberry-Pi-using-Blynk-App">Repository →</a>
 
----
+<br>
 
 **Python Voice Assistant**
-Voice-controlled Python application exploring speech recognition, voice commands, and automation.
 
-`Python` `Speech Recognition` `Text-to-Speech`
+Python-based voice assistant exploring speech recognition, voice commands, and automation.
 
-→ [GitHub](https://github.com/Misbah81)
+`Python` · `Speech Recognition` · `Text-to-Speech`
 
----
-
-## 🧭 Exploring
-
-`Artificial Intelligence` · `Machine Learning` · `Generative AI` · `LLMs`
-`RAG` · `Intelligent Systems` · `Embedded Systems` · `IoT` · `Software Development`
+<a href="https://github.com/Misbah81">GitHub →</a>
 
 ---
 
-## 📊 GitHub Activity
+## 🧭 Current Focus
+
+```text
+Artificial Intelligence & Machine Learning
+              │
+              ├── Data & Model Development
+              │
+              ├── Generative AI & LLMs
+              │
+              ├── RAG & Agentic Workflows
+              │
+              └── Intelligent Applications
+                              │
+                              ▼
+                    Practical Engineering Systems
+```
+
+---
+
+## 📊 GitHub
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Misbah81&show_icons=true&hide_border=true&rank_icon=github&bg_color=161616&title_color=F7DF1E&text_color=E5E5E5&icon_color=D4A72C" height="170" alt="GitHub Statistics"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Misbah81&show_icons=true&hide_border=true&rank_icon=github&bg_color=171717&title_color=C9A227&text_color=E5E7EB&icon_color=C9A227" height="175" alt="GitHub Statistics"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Misbah81&layout=compact&hide_border=true&bg_color=161616&title_color=F7DF1E&text_color=E5E5E5" height="170" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Misbah81&layout=compact&hide_border=true&bg_color=171717&title_color=C9A227&text_color=E5E7EB" height="175" alt="Top Languages"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=Misbah81&theme=dark&hide_border=true&background=161616&ring=D4A72C&fire=F7DF1E&currStreakLabel=F7DF1E&sideLabels=E5E5E5&dates=888888" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=Misbah81&theme=dark&hide_border=true&background=171717&ring=C9A227&fire=C9A227&currStreakLabel=C9A227&sideLabels=E5E7EB&dates=9CA3AF" alt="GitHub Streak"/>
 
 </div>
 
@@ -194,7 +154,7 @@ Voice-controlled Python application exploring speech recognition, voice commands
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Misbah81&bg_color=161616&color=E5E5E5&line=D4A72C&point=F7DF1E&area=true&hide_border=true" width="96%" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Misbah81&bg_color=171717&color=E5E7EB&line=C9A227&point=FFFFFF&area=true&area_color=8A6A2F&hide_border=true" width="96%" alt="Contribution Graph"/>
 
 </div>
 
@@ -205,15 +165,15 @@ Voice-controlled Python application exploring speech recognition, voice commands
 <div align="center">
 
 <a href="https://github.com/Misbah81">
-<img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=FFFFFF" height="40" alt="GitHub"/>
 </a>
-
+&nbsp;
 <a href="https://www.linkedin.com/in/misbah-rafique-b6935933a">
-<img src="https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" height="40" alt="LinkedIn"/>
 </a>
-
-<a href="mailto:misbahrafique@example.com">
-<img src="https://img.shields.io/badge/-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+&nbsp;
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/-EA4335?style=for-the-badge&logo=gmail&logoColor=FFFFFF" height="40" alt="Email"/>
 </a>
 
 </div>
@@ -222,10 +182,10 @@ Voice-controlled Python application exploring speech recognition, voice commands
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:161616,50:292929,100:D4A72C" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:171717,45:262626,75:8A6A2F,100:C9A227" width="100%"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/OPEN%20TO%20WORK-D4A72C?style=for-the-badge&logoColor=111111" alt="Open to Work"/>
+<img src="https://img.shields.io/badge/Open%20to%20Work-C9A227?style=for-the-badge&logoColor=171717" alt="Open to Work"/>
 
 </div>
