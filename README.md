@@ -1,166 +1,186 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&section=header&text=Misbah%20Muhammad%20Rafique&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Computer%20Engineering%20Student%20%7C%20Software%20%7C%20AI%20%7C%20Embedded%20Systems&descAlignY=60&descSize=17&animation=fadeIn&color=0:0F172A,100:0EA5E9" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&section=header&text=Misbah%20Muhammad%20Rafique&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Computer%20Engineering%20%7C%20Software%20%7C%20AI%20%7C%20Embedded%20Systems&descAlignY=60&descSize=16&animation=fadeIn&color=0:050505,50:111111,100:166534" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=Computer+Engineering+Student;Software+%7C+Artificial+Intelligence+%7C+Embedded+Systems;Building+Practical+%26+Intelligent+Systems;Learning+by+Building+Real+Projects" alt="Typing SVG"/>
-
-<br><br>
-
 <a href="https://github.com/Misbah81">
-<img src="https://img.shields.io/badge/GitHub-Misbah81-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white" height="30" alt="GitHub"/>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/misbah-rafique-b6935933a">
-<img src="https://img.shields.io/badge/LinkedIn-Misbah%20Muhammad%20Rafique-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="30" alt="LinkedIn"/>
 </a>
+&nbsp;
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/-EA4335?style=flat-square&logo=gmail&logoColor=white" height="30" alt="Email"/>
+</a>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=1000&color=22C55E&center=true&vCenter=true&width=750&lines=Computer+Engineering+Student;Software+%7C+Artificial+Intelligence+%7C+Embedded+Systems;Building+Practical+%26+Intelligent+Systems;Learning+Through+Real+Projects" alt="Typing Animation"/>
 
 </div>
 
 ---
 
-## Profile
+## 👩‍💻 About
 
-I am a **Computer Engineering student** interested in building practical solutions across software development, artificial intelligence, and embedded systems.
+I am **Misbah Muhammad Rafique**, a Computer Engineering student interested in building practical solutions across **software development, artificial intelligence, and embedded systems**.
 
-My projects combine programming, hardware, data, and intelligent technologies to solve real-world engineering problems.
+I enjoy working on projects that combine programming, hardware, data, and intelligent technologies to solve real-world engineering problems.
 
-Currently, I am strengthening my skills in **AI/ML, Generative AI, software development, and intelligent embedded systems**.
+Currently exploring **Artificial Intelligence, Machine Learning, Generative AI, LLM systems, software development, and embedded technologies**.
 
 ---
 
-## Core Stack
+## 🛠️ Core Stack
 
 **AI / ML**
 
-<img src="https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=38BDF8"/> <img src="https://img.shields.io/badge/PyTorch-0F172A?style=for-the-badge&logo=pytorch&logoColor=EE4C2C"/> <img src="https://img.shields.io/badge/HuggingFace-0F172A?style=for-the-badge&logo=huggingface&logoColor=FFD21E"/> <img src="https://img.shields.io/badge/TensorFlow-0F172A?style=for-the-badge&logo=tensorflow&logoColor=FF6F00"/> <img src="https://img.shields.io/badge/scikit--learn-0F172A?style=for-the-badge&logo=scikit-learn&logoColor=F7931E"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white"/>
 
 **LLM Systems**
 
-<img src="https://img.shields.io/badge/LangChain-0F172A?style=for-the-badge&logo=chainlink&logoColor=38BDF8"/> <img src="https://img.shields.io/badge/LangGraph-0F172A?style=for-the-badge&logoColor=38BDF8"/> <img src="https://img.shields.io/badge/Ollama-0F172A?style=for-the-badge&logoColor=38BDF8"/> <img src="https://img.shields.io/badge/RAG-0F172A?style=for-the-badge&logoColor=38BDF8"/> <img src="https://img.shields.io/badge/Local%20LLMs-0F172A?style=for-the-badge&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white"/> <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/> <img src="https://img.shields.io/badge/RAG-334155?style=flat-square&logoColor=white"/>
 
 **Backend**
 
-<img src="https://img.shields.io/badge/Flask-0F172A?style=for-the-badge&logo=flask&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/REST%20APIs-0F172A?style=for-the-badge&logoColor=38BDF8"/> <img src="https://img.shields.io/badge/MySQL-0F172A?style=for-the-badge&logo=mysql&logoColor=4479A1"/> <img src="https://img.shields.io/badge/Firebase-0F172A?style=for-the-badge&logo=firebase&logoColor=FFCA28"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/REST%20API-2563EB?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=111827"/> <img src="https://img.shields.io/badge/Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=111827"/>
 
 **Embedded / IoT**
 
-<img src="https://img.shields.io/badge/ESP32-0F172A?style=for-the-badge&logo=espressif&logoColor=E7352C"/> <img src="https://img.shields.io/badge/Arduino-0F172A?style=for-the-badge&logo=arduino&logoColor=00979D"/> <img src="https://img.shields.io/badge/Raspberry%20Pi-0F172A?style=for-the-badge&logo=raspberrypi&logoColor=C51A4A"/> <img src="https://img.shields.io/badge/MQTT-0F172A?style=for-the-badge&logoColor=38BDF8"/> <img src="https://img.shields.io/badge/Blynk-0F172A?style=for-the-badge&logoColor=23C48E"/>
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white"/> <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/> <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white"/> <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/Blynk-23C48E?style=flat-square&logoColor=white"/>
 
 **Frontend / Mobile**
 
-<img src="https://img.shields.io/badge/HTML5-0F172A?style=for-the-badge&logo=html5&logoColor=E34F26"/> <img src="https://img.shields.io/badge/CSS3-0F172A?style=for-the-badge&logo=css3&logoColor=1572B6"/> <img src="https://img.shields.io/badge/Flutter-0F172A?style=for-the-badge&logo=flutter&logoColor=54C5F8"/> <img src="https://img.shields.io/badge/Dart-0F172A?style=for-the-badge&logo=dart&logoColor=0175C2"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
 
-**Data**
+**Programming**
 
-<img src="https://img.shields.io/badge/NumPy-0F172A?style=for-the-badge&logo=numpy&logoColor=4DABCF"/> <img src="https://img.shields.io/badge/Pandas-0F172A?style=for-the-badge&logo=pandas&logoColor=150458"/> <img src="https://img.shields.io/badge/Matplotlib-0F172A?style=for-the-badge&logo=plotly&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
 
 **Tools**
 
-<img src="https://img.shields.io/badge/Git-0F172A?style=for-the-badge&logo=git&logoColor=F05032"/> <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/VS%20Code-0F172A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC"/> <img src="https://img.shields.io/badge/Arduino%20IDE-0F172A?style=for-the-badge&logo=arduino&logoColor=00979D"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/> <img src="https://img.shields.io/badge/Arduino%20IDE-00979D?style=flat-square&logo=arduino&logoColor=white"/>
 
 ---
 
-## Selected Work
+## 🚀 Selected Projects
 
-**01 — IoT-Based Intelligent Rodent Monitoring System**
+**01 · IoT-Based Intelligent Rodent Monitoring System**
 
-ESP32-based monitoring and automated control system for critical infrastructure environments.
+ESP32-based monitoring and automated control system designed for critical infrastructure environments.
 
 `ESP32` `MQTT` `HC-SR04` `MQ-135` `Firebase` `Flask`
 
-→ [View Repository](https://github.com/Misbah81/IOT_based_Rodent-detection-system)
+→ [Repository](https://github.com/Misbah81/IOT_based_Rodent-detection-system)
 
 ---
 
-**02 — Footstep Power Generation**
+**02 · Footstep Power Generation**
 
-Arduino-based piezoelectric energy generation system for demonstrating electrical generation from human footsteps.
+Arduino-based piezoelectric system demonstrating electrical energy generation from human footsteps.
 
 `Arduino Uno` `Piezoelectric Sensors` `Voltage Sensor` `I2C LCD`
 
-→ [View Repository](https://github.com/Misbah81/Footstep-Power-Generation)
+→ [Repository](https://github.com/Misbah81/Footstep-Power-Generation)
 
 ---
 
-**03 — Raspberry Pi LED Control**
+**03 · Raspberry Pi LED Control**
 
-Remote LED control system using Raspberry Pi, Python, GPIO and Blynk.
+Remote LED control system using Raspberry Pi, Python, GPIO, and Blynk.
 
 `Raspberry Pi` `Python` `Blynk` `GPIO`
 
-→ [View Repository](https://github.com/Misbah81/Control-LED-with-Raspberry-Pi-using-Blynk-App)
+→ [Repository](https://github.com/Misbah81/Control-LED-with-Raspberry-Pi-using-Blynk-App)
 
 ---
 
-**04 — Python Voice Assistant**
+**04 · Python Voice Assistant**
 
-Python-based voice assistant exploring speech recognition, voice commands and automation.
+Voice-controlled Python application exploring speech recognition, voice commands, and automation.
 
 `Python` `Speech Recognition` `Text-to-Speech`
 
-→ [Explore GitHub](https://github.com/Misbah81)
+→ [GitHub](https://github.com/Misbah81)
 
 ---
 
-## Engineering Interests
+## 🧭 Current Direction
 
 ```text
-Artificial Intelligence
-Machine Learning
-Generative AI
-Large Language Models
-Intelligent Systems
-Embedded Systems
-Internet of Things
 Software Development
+        │
+        ├── Python & Application Development
+        │
+        ├── Artificial Intelligence & Machine Learning
+        │
+        ├── Generative AI & LLM Systems
+        │
+        └── Embedded Systems & IoT
+                         │
+                         ▼
+                 Intelligent Systems
 ```
 
 ---
 
-## GitHub Activity
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Misbah81&show_icons=true&hide_border=true&rank_icon=github&bg_color=0F172A&title_color=38BDF8&text_color=CBD5E1&icon_color=38BDF8" height="170" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Misbah81&show_icons=true&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=22C55E&text_color=C9D1D9&icon_color=22C55E" height="170" alt="GitHub Statistics"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Misbah81&layout=compact&hide_border=true&bg_color=0F172A&title_color=38BDF8&text_color=CBD5E1" height="170" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Misbah81&layout=compact&hide_border=true&bg_color=0D1117&title_color=22C55E&text_color=C9D1D9" height="170" alt="Top Languages"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=Misbah81&theme=transparent&hide_border=true&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=CBD5E1&dates=64748B" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=Misbah81&theme=dark&hide_border=true&ring=22C55E&fire=22C55E&currStreakLabel=22C55E&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak"/>
 
 </div>
 
 ---
 
-## Contribution Graph
+## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Misbah81&bg_color=0F172A&color=CBD5E1&line=38BDF8&point=FFFFFF&area=true&hide_border=true" width="96%" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Misbah81&bg_color=0D1117&color=C9D1D9&line=22C55E&point=FFFFFF&area=true&hide_border=true" width="96%" alt="Contribution Graph"/>
 
 </div>
 
 ---
 
+## 🔗 Connect
+
 <div align="center">
 
-### Let's build something meaningful.
+<a href="https://github.com/Misbah81">
+<img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/misbah-rafique-b6935933a">
+<img src="https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+</div>
 
 <br>
 
+<div align="center">
+
 <a href="https://github.com/Misbah81">
-<img src="https://img.shields.io/badge/Explore%20My%20Repositories-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8" alt="Explore Repositories"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=60&text=Open%20to%20Work&fontSize=22&fontColor=ffffff&color=166534&animation=fadeIn" alt="Open to Work"/>
 </a>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Open%20to%20Work-0EA5E9?style=for-the-badge&logoColor=white" alt="Open to Work"/>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0EA5E9,100:0F172A" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:166534,100:050505" width="100%"/>
 
 </div>
