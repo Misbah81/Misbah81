@@ -40,9 +40,9 @@ Currently exploring **AI/ML, Generative AI, LLM applications, software developme
 
 ---
 
-## `03` · Selected Work
+##  Selected Work
 
-### 🔴 IoT-Based Intelligent Rodent Monitoring System
+###  IoT-Based Intelligent Rodent Monitoring System
 
 ESP32-based monitoring and automated control system designed for intelligent rodent detection and environmental response using sensors, MQTT communication, cloud data, and a Flask dashboard.
 
@@ -50,7 +50,7 @@ ESP32-based monitoring and automated control system designed for intelligent rod
 
 <a href="https://github.com/Misbah81/IOT_based_Rodent-detection-system"><img src="https://img.shields.io/badge/View%20Repository-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Rodent Monitoring Repository"/></a>
 
-### ⚡ Footstep Power Generation
+###  Footstep Power Generation
 
 Arduino-based embedded system using piezoelectric sensors to demonstrate electrical energy generation from human footsteps, with voltage monitoring and LCD output.
 
@@ -58,7 +58,7 @@ Arduino-based embedded system using piezoelectric sensors to demonstrate electri
 
 <a href="https://github.com/Misbah81/Footstep-Power-Generation"><img src="https://img.shields.io/badge/View%20Repository-00979D?style=for-the-badge&logo=github&logoColor=white" alt="Footstep Power Repository"/></a>
 
-### 🟢 Raspberry Pi LED Control
+###  Raspberry Pi LED Control
 
 IoT project for remotely controlling an LED using Raspberry Pi, Python, GPIO, and the Blynk platform.
 
@@ -67,32 +67,9 @@ IoT project for remotely controlling an LED using Raspberry Pi, Python, GPIO, an
 <a href="https://github.com/Misbah81/Control-LED-with-Raspberry-Pi-using-Blynk-App"><img src="https://img.shields.io/badge/View%20Repository-C51A4A?style=for-the-badge&logo=github&logoColor=white" alt="Raspberry Pi LED Repository"/></a>
 
 ---
-
-## `04` · Currently Exploring
-
-```text
-AI / ML
-├── Machine Learning
-├── Data Processing
-└── Intelligent Prediction Systems
-
-Generative AI
-├── LLM Applications
-├── RAG
-├── LangChain
-├── LangGraph
-└── Local LLMs
-
-Systems
-├── Embedded Systems
-├── IoT
-├── MQTT
-└── Intelligent Automation
-```
-
 ---
 
-## `05` · GitHub Activity
+##  · GitHub Activity
 
 <div align="center">
 
