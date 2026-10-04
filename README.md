@@ -118,35 +118,6 @@ A Python-based voice assistant exploring speech recognition, voice commands, and
 
 ---
 
-## Areas of Exploration
-
-```text
-Artificial Intelligence
-        │
-        ├── Machine Learning
-        ├── Generative AI
-        ├── LLM Applications
-        └── RAG & Local Models
-                │
-                ▼
-        Intelligent Systems
-                ▲
-                │
-        Embedded & IoT
-        ├── ESP32
-        ├── Arduino
-        ├── Raspberry Pi
-        └── MQTT
-                │
-                ▼
-        Software Development
-        ├── Python
-        ├── Flask
-        └── Flutter
-```
-
----
-
 ## GitHub Activity
 
 <div align="center">
