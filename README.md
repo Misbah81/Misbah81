@@ -1,353 +1,150 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=Misbah%20Muhammad%20Rafique&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Computer%20Engineering%20Student%20%7C%20Software%20%7C%20AI%20%7C%20Embedded%20Systems&descAlignY=60&descSize=16" width="100%"/>
+# Misbah Muhammad Rafique
+
+### Computer Engineering Student · Software · AI · Embedded Systems
+
+Building practical software and intelligent systems through hands-on engineering projects.
 
 <br>
 
-<a href="https://github.com/Misbah81">
-<img src="https://img.shields.io/badge/GitHub-Misbah81-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/misbah-rafique-b6935933a">
-<img src="https://img.shields.io/badge/LinkedIn-Misbah%20Muhammad%20Rafique-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-</a>
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Building+Practical+Software+Solutions;Exploring+Artificial+Intelligence;Developing+Intelligent+Embedded+Systems;Learning+%7C+Building+%7C+Improving" alt="Typing Animation"/>
+[![GitHub](https://img.shields.io/badge/GitHub-Misbah81-0D1117?style=flat-square\&logo=github\&logoColor=white)](https://github.com/Misbah81)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/misbah-rafique-b6935933a)
+[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Available-16A085?style=flat-square\&logo=checkmarx\&logoColor=white)](https://github.com/Misbah81)
 
 </div>
 
 ---
 
-## About Me
+## About
 
-I am **Misbah Muhammad Rafique**, a Computer Engineering student interested in building practical solutions at the intersection of **software, artificial intelligence, and embedded systems**.
+I am a **Computer Engineering student** interested in software development, artificial intelligence, machine learning, and embedded systems.
 
-I enjoy learning by building real projects — from IoT and embedded systems to Python applications, machine learning, and intelligent systems.
+My approach is simple: **learn by building**. I enjoy turning concepts into practical projects, working with hardware and software together, and continuously exploring new technologies.
 
-Currently, I am focusing on strengthening my foundations in **AI/ML, software development, embedded technologies, and Generative AI**.
-
----
-
-## What I Work With
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Software Development
-
-* Python
-* C++
-* Java
-* Dart
-* Flask
-* Flutter
-* REST APIs
-* HTML / CSS
-
-</td>
-
-<td width="50%" valign="top">
-
-### AI & Data
-
-* Machine Learning
-* Generative AI
-* NumPy
-* Pandas
-* Matplotlib
-* Data Processing
-* Model Development
-* Local LLMs
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### Embedded & IoT
-
-* ESP32
-* ESP8266
-* Arduino
-* Raspberry Pi
-* Sensors & Actuators
-* MQTT
-* Blynk
-* IoT Systems
-
-</td>
-
-<td width="50%" valign="top">
-
-### Databases & Tools
-
-* MySQL
-* Firebase / Firestore
-* Git
-* GitHub
-* VS Code
-* Arduino IDE
-* Jupyter Notebook
-
-</td>
-</tr>
-</table>
+Currently exploring **AI/ML, Generative AI, local LLM systems, Python development, and intelligent embedded systems.**
 
 ---
 
-## Technology Stack
+## Core Stack
 
-<div align="center">
+**AI / ML**
+Python · scikit-learn · NumPy · Pandas · Matplotlib · Machine Learning
 
-### Languages
+**LLM Systems**
+Ollama · LangChain · LangGraph · RAG · Local LLMs
 
-<img src="https://skillicons.dev/icons?i=python,cpp,java,dart" alt="Languages"/>
+**Backend**
+Python · Flask · REST APIs
 
-<br><br>
+**Frontend / Mobile**
+Flutter · Dart · HTML · CSS · JavaScript
 
-### AI • Data • Development
+**Embedded / IoT**
+ESP32 · Arduino · Raspberry Pi · MQTT · Blynk
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,flask,flutter" alt="AI and Development"/>
+**Databases**
+MySQL · Firebase · Firestore
 
-<br><br>
-
-### Embedded • IoT
-
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi" alt="Embedded and IoT"/>
-
-<br><br>
-
-### Databases • Tools
-
-<img src="https://skillicons.dev/icons?i=mysql,firebase,git,github,vscode" alt="Databases and Tools"/>
-
-</div>
+**Tools**
+Git · GitHub · VS Code · Arduino IDE · Jupyter Notebook
 
 ---
 
-## Selected Projects
+## Selected Work
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### IoT-Based Intelligent Rodent Monitoring System
 
-### IoT Rodent Monitoring System
+An IoT-based monitoring and automated chemical diffusion system designed around critical infrastructure environments.
 
-**IoT • Automation • MQTT • ESP32**
+**ESP32 · MQTT · HC-SR04 · MQ-135 · Firebase · Flask · Bootstrap · Chart.js**
 
-An intelligent monitoring and automated chemical diffusion system designed for critical infrastructure environments.
+[View Repository →](https://github.com/Misbah81/IOT_based_Rodent-detection-system)
 
-**Built with**
-
-`ESP32` `MQTT` `HC-SR04` `MQ-135`
-`Firebase` `Flask` `Bootstrap` `Chart.js`
-
-<br>
-
-<a href="https://github.com/Misbah81/IOT_based_Rodent-detection-system">
-View Repository →
-</a>
-
-</td>
-
-<td width="50%" valign="top">
+---
 
 ### Footstep Power Generation
 
-**Embedded Systems • Energy • Arduino**
+A microcontroller-based system using piezoelectric sensors to demonstrate electrical energy generation from human footsteps.
 
-A piezoelectric-based system that demonstrates electrical energy generation from human footsteps.
+**Arduino Uno · Piezoelectric Sensors · Voltage Sensor · I2C LCD**
 
-**Built with**
-
-`Arduino Uno` `Piezoelectric Sensors`
-`1N4007` `Voltage Sensor` `I2C LCD`
-
-<br>
-
-<a href="https://github.com/Misbah81/Footstep-Power-Generation">
-View Repository →
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### Raspberry Pi LED Control
-
-**IoT • Raspberry Pi • Blynk**
-
-A remote LED control system using Raspberry Pi and the Blynk platform.
-
-**Built with**
-
-`Raspberry Pi` `Python` `Blynk` `GPIO`
-
-<br>
-
-<a href="https://github.com/Misbah81/Control-LED-with-Raspberry-Pi-using-Blynk-App">
-View Repository →
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### Python Voice Assistant
-
-**Python • Automation • Speech**
-
-A voice-controlled Python application exploring speech recognition, voice commands, and automation.
-
-**Built with**
-
-`Python` `Speech Recognition`
-`Text-to-Speech` `Automation`
-
-<br>
-
-<a href="https://github.com/Misbah81">
-Explore Projects →
-</a>
-
-</td>
-</tr>
-</table>
+[View Repository →](https://github.com/Misbah81/Footstep-Power-Generation)
 
 ---
 
-## Current Direction
+### Raspberry Pi LED Control
 
-<div align="center">
+A Raspberry Pi project for remotely controlling an LED through the Blynk platform.
 
-```text
-Software Development
-        │
-        ├── Python & Application Development
-        │
-        ├── Artificial Intelligence & Machine Learning
-        │
-        ├── Generative AI & Local LLMs
-        │
-        └── Embedded Systems & IoT
-                     │
-                     ▼
-             Intelligent Systems
-```
+**Raspberry Pi · Python · Blynk · GPIO**
 
-</div>
+[View Repository →](https://github.com/Misbah81/Control-LED-with-Raspberry-Pi-using-Blynk-App)
+
+---
+
+### Python Voice Assistant
+
+A Python-based voice assistant exploring speech recognition, voice commands, and basic task automation.
+
+**Python · Speech Recognition · Text-to-Speech**
+
+[Explore Repository →](https://github.com/Misbah81)
 
 ---
 
 ## Currently Exploring
 
-<table>
-<tr>
-<td align="center" width="25%">
-
-### AI / ML
-
-Machine Learning
-Model Development
-Data Processing
-
-</td>
-
-<td align="center" width="25%">
-
-### GenAI
-
-LLMs
-RAG
-LangChain
-Local Models
-
-</td>
-
-<td align="center" width="25%">
-
-### Embedded
-
-ESP32
-Arduino
-Raspberry Pi
-Sensors
-
-</td>
-
-<td align="center" width="25%">
-
-### Software
-
-Python
-Flask
-Flutter
-REST APIs
-
-</td>
-</tr>
-</table>
+```text
+Artificial Intelligence & Machine Learning
+Generative AI & Local LLMs
+RAG & Agentic Workflows
+Software & API Development
+Embedded Systems & IoT
+```
 
 ---
 
-## GitHub Analytics
+## GitHub
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Misbah81&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="GitHub Statistics"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Misbah81&show_icons=true&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" height="165" alt="GitHub Statistics"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Misbah81&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Misbah81&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Misbah81&layout=compact&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" height="165" alt="Top Languages"/>
 
 </div>
 
 ---
 
-## Contribution Graph
+## Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Misbah81&bg_color=0d1117&color=58a6ff&line=6f42c1&point=ffffff&area=true&hide_border=true" width="95%" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Misbah81&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="95%" alt="GitHub Contribution Graph"/>
 
 </div>
 
 ---
 
-## Let's Connect
+## Open to Work
+
+I am open to **internship, entry-level, and learning-focused opportunities** in:
+
+**Software Development · AI/ML · Generative AI · IoT · Embedded Systems**
+
+If you're working on something interesting, I'd be happy to connect.
 
 <div align="center">
 
-<a href="https://github.com/Misbah81">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-<a href="https://www.linkedin.com/in/misbah-rafique-b6935933a">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/misbah-rafique-b6935933a)
 
 </div>
 
-<br>
+---
 
 <div align="center">
 
-### Building practical ideas into working systems.
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient" width="100%"/>
+**Build · Learn · Iterate**
 
 </div>
