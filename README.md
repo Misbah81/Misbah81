@@ -204,18 +204,6 @@ Voice-controlled application exploring speech recognition, voice commands, and a
 <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=flat-square&logo=linkedin&logoColor=38BDF8"/>
 </a>
 &nbsp;
-<a href="https://huggingface.co/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/HuggingFace-0F172A?style=flat-square&logo=huggingface&logoColor=FFD21E"/>
-</a>
-&nbsp;
-<a href="https://www.kaggle.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/Kaggle-0F172A?style=flat-square&logo=kaggle&logoColor=20BEFF"/>
-</a>
-&nbsp;
-<a href="https://medium.com/@YOUR_USERNAME">
-<img src="https://img.shields.io/badge/Medium-0F172A?style=flat-square&logo=medium&logoColor=FFFFFF"/>
-</a>
-&nbsp;
 <a href="mailto:YOUR_EMAIL@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-0F172A?style=flat-square&logo=gmail&logoColor=EA4335"/>
 </a>
